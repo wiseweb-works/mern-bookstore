@@ -5,9 +5,8 @@
     "useDefineForClassFields": true,
     "lib": ["ESNext", "DOM", "DOM.Iterable"],
     "module": "ESNext",
-    "skipLibCheck": false,
+    "skipLibCheck": true,
 
-    /* Bundler mode */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
@@ -15,7 +14,6 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
-    /* Linting & Strict Mode */
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
