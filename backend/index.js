@@ -3,7 +3,6 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-require('express-async-errors')
 
 const mongoose = require("mongoose");
 const port = process.env.PORT || 5000;
