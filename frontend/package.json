@@ -21,7 +21,7 @@
     "react-hook-form": "^7.66.1",
     "react-icons": "^5.5.0",
     "react-redux": "^9.2.0",
-    "react-router": "^7.9.6",
+    "react-router": "^7.12.0",
     "sweetalert2": "^11.26.3",
     "swiper": "^12.0.3",
     "tailwindcss": "^4.1.17"
