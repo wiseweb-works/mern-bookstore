@@ -11,36 +11,31 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
-    "@tailwindcss/vite": "^4.2.0",
-    "axios": "^1.13.5",
+    "@tailwindcss/vite": "^4.2.1",
+    "axios": "^1.13.6",
     "chart.js": "^4.5.1",
-    "firebase": "^12.9.0",
+    "firebase": "^12.10.0",
     "react": "^19.2.4",
     "react-chartjs-2": "^5.3.1",
     "react-dom": "^19.2.4",
-    "react-hook-form": "^7.71.1",
-    "react-icons": "^5.5.0",
+    "react-hook-form": "^7.71.2",
+    "react-icons": "^5.6.0",
     "react-redux": "^9.2.0",
-    "react-router": "^7.13.0",
-    "sweetalert2": "^11.26.18",
+    "react-router": "^7.13.1",
+    "sweetalert2": "^11.26.21",
     "swiper": "^12.1.2",
-    "tailwindcss": "^4.2.0"
+    "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react-swc": "^4.2.3",
-    "eslint": "^9.39.2",
+    "eslint": "^9.39.4",
     "eslint-plugin-react-hooks": "^7.0.1",
-    "eslint-plugin-react-refresh": "^0.5.0",
-    "globals": "^17.3.0",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.4.0",
     "typescript": "~5.9.3",
-    "typescript-eslint": "^8.56.0",
+    "typescript-eslint": "^8.56.1",
     "vite": "^7.3.1"
-  },
-  "pnpm": {
-    "overrides": {
-      "ajv": ">=8.18.0"
-    }
   }
 }
