@@ -1,0 +1,2 @@
+overrides:
+  '@grpc/grpc-js@<1.13.6': ^1.13.6
